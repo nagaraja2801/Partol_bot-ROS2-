@@ -9,7 +9,10 @@ Patrol Bot is a ROS2-based autonomous mobile robot designed for surveillance and
 - Obstacle avoidance
 - SLAM mapping
 
-- Simulation in Gazebo
+
+## patrl_bot images
+
+![patrol_bot.jpeg](/home/nag/patrol_bot/images)
 
 ## Technologies Used
 - ROS2
