@@ -27,7 +27,7 @@ LiDAR → SLAM → Nav2 Planner → Controller → Motor Driver
 
 ## Demo videos
 ## implemented SLAM functionality using the slam_toolbox
-[slam](videos/implemented_SLAM)
+[slam](videos/implemented_SLAM.mp4)
 
 ## combination of the SmacPlannerLattice for path planning, paired with the MPPI Controller and SimpleSmoother, delivers the best performance for our robot. To validate this, we conducted a side-by-side comparison with the default Nav2 stack plugins, such as NavFn and DWB Controller. The results clearly demonstrate the superiority of our chosen approach in meeting our specific requirements.
-[path_planning](videos/path_planning)
+[path_planning](videos/path_planning.mp4)
